@@ -17,19 +17,7 @@ with check option
 ---
 
 --FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---FONKSİYONLAR
---------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 -- VİDEO 3 
 create function kareAl(@sayi int) return int --geri değer döndürğü için returns int yazılır
